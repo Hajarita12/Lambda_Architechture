@@ -45,5 +45,5 @@ Enables predictive analytics for optimizing business strategies.
    docker-compose up -d
    ```
 ### Project Architecture
-
+![image](https://github.com/user-attachments/assets/f78d6057-ada1-4cbb-a19c-2b46a1fe64c8)
 
