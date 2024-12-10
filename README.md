@@ -28,7 +28,7 @@ Enables predictive analytics for optimizing business strategies.
 
 - Docker
 - Docker Compose
-- Minimum 16GB RAM recommended
+- Minimum 32GB RAM recommended
 - Git
 
 
