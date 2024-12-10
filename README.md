@@ -48,11 +48,12 @@ Enables predictive analytics for optimizing business strategies.
 ![image](https://github.com/user-attachments/assets/f78d6057-ada1-4cbb-a19c-2b46a1fe64c8)
 
 ### Tools and Technologies
-Programming Language: Python.
-Batch Layer: Apache Spark, Hive, Pyspark.
-Speed Layer: Apache Kafka, Spark Streaming.
-Serving Layer: Hive, Cassandra.
-Machine Learning: Spark ML, Pyspark.
-Orchestration: Apache Airflow.
-Visualization: Streamlit.
-Containerization: Docker for deploying the application.
+
+- **Programming Language**: Python  
+- **Batch Layer**: Apache Spark, Hive, Pyspark  
+- **Speed Layer**: Apache Kafka, Spark Streaming  
+- **Serving Layer**: Hive, Cassandra  
+- **Machine Learning**: Spark ML, Pyspark  
+- **Orchestration**: Apache Airflow  
+- **Visualization**: Streamlit  
+- **Containerization**: Docker for deploying the application  
