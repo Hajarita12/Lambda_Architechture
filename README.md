@@ -36,11 +36,14 @@ Enables predictive analytics for optimizing business strategies.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/AbderrahmaneOd/spark-hive-airflow-ecommerce-pipeline.git
-   cd spark-hive-airflow-ecommerce-pipeline
+   git clone https://github.com/Hajarita12/Lambda_Architechture
+   
    ```
 
 2. **Launch Infrastructure**
    ```bash
    docker-compose up -d
    ```
+### Project Architecture
+
+
